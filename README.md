@@ -52,6 +52,11 @@
     + 알고리즘 공부 및 문제 풀이 후 [블로그](https://cojelly.tistory.com/category/init%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) 업로드
     + 메타버스, AR, VR 주제로 발표
     + 백엔드 Spring 공부 : 스타벅스 앱 클론코딩
+   
+    <br> 
+  - 서버 구축 및 실습
+    + 🐣 **"메추리알"** - 특정 사이트에 내가 관심있는 글이 올라오면 메일로 알려주는 웹 서비스
+      * [Mechurial_project](https://github.com/yujinS0/Mechurial_project)
 
     <br> 
   - Mathematical Programming : Machine Learning
