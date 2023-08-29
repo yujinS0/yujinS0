@@ -18,11 +18,7 @@
 <br> 
 <div align=left><h2>🌟 Activities </h2></div>
  
-  - 2022년 K-디지털 챌린지:NET 챌린지 캠프 시즌9 은상 수상
-    + 🚩 **"깜깜맵"** - CCTV를 통해 길의 인적을 확인하여 밤에도 안심하게 다닐 수 있도록 도와주는 지도 앱
-      * [GGMap](https://github.com/yujinS0/GG-Map)
-    
-    <br>
+
   - NSLab 학부연구생
     + 📄 KSC2022 **"프로그래머블 스위치의 자원 제약을 극복하기 위해 특수 연산을 활용한 인-네트워크 컴퓨팅 연구 동향"** 논문 게재
     + 프로그래머블 스위치 연구 (P4)
@@ -44,6 +40,13 @@
     + 🍀 **"가든 지니"** - 시각장애인의 원예 활동과 문화 생활을 돕는 가드닝 앱
       * [Garden-Genie-server](https://github.com/yujinS0/server-Garden-Genie)
 
+
+    <br>
+  - 2022년 K-디지털 챌린지:NET 챌린지 캠프 시즌9 은상 수상
+    + 🚩 **"깜깜맵"** - CCTV를 통해 길의 인적을 확인하여 밤에도 안심하게 다닐 수 있도록 도와주는 지도 앱
+      * [GGMap](https://github.com/yujinS0/GG-Map)
+    
+    
     <br> 
   - 교내 컴퓨터공학과 동아리 init 3기 활동
     + 알고리즘 공부 및 문제 풀이 후 [블로그](https://cojelly.tistory.com/category/init%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) 업로드
