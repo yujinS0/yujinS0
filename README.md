@@ -20,6 +20,7 @@
  
   - 2022년 K-디지털 챌린지:NET 챌린지 캠프 시즌9 은상 수상
     + 🚩 **"깜깜맵"** - CCTV를 통해 길의 인적을 확인하여 밤에도 안심하게 다닐 수 있도록 도와주는 지도 앱
+      * [GGMap](https://github.com/yujinS0/GG-Map)
     
     <br>
   - NSLab 학부연구생
@@ -29,20 +30,23 @@
     <br> 
   - 성신여자대학교 2022 소프트웨어 경진대회 고학년부 동상 수상
     + 🏫 **"학교다녀오겠습니다"** - 학교 폭력 예방을 주제로 한 모바일 스토리 퍼즐 게임
+      * [way_to_School](https://github.com/yujinS0/way_to_School)
 
     <br> 
   - University MakeUs Challenge(UMC) 2기 운영진
     + Server 파트장 
     + 🌏 **"걸어서 지구 한 바퀴"** - 귀여운 동그라미 친구들 함께 지구탐험을 할 수 있는 만보기 앱
+      * [Earth1round-Server](https://github.com/yujinS0/Earth1round-Server)
     
     
     <br> 
   - 캡스톤 디자인
     + 🍀 **"가든 지니"** - 시각장애인의 원예 활동과 문화 생활을 돕는 가드닝 앱
+      * [Garden-Genie-server](https://github.com/yujinS0/server-Garden-Genie)
 
     <br> 
   - 교내 컴퓨터공학과 동아리 init 3기 활동
-    + 알고리즘 공부 및 문제 풀이 후 블로그 업로드
+    + 알고리즘 공부 및 문제 풀이 후 [블로그](https://cojelly.tistory.com/category/init%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) 업로드
     + 메타버스, AR, VR 주제로 발표
     + 백엔드 Spring 공부 : 스타벅스 앱 클론코딩
 
@@ -50,10 +54,12 @@
   - Mathematical Programming : Machine Learning
     + Linear Algebra 구현
     + 머신러닝 Linear Regression, Logistic Regression 구현
+      * [Machine Learning code](https://github.com/yujinS0/Mathematical_Programming)
 
     <br> 
   - 블록체인 내 암호화 : Zero-Knowledge Proof 활용 방법 세미나
     + 블록체인 내 암호화 기법 중 하나인 Zero-knowledge Proof 논문 리뷰 및 공부
+      * [ZKP 정리](https://cojelly.tistory.com/category/Zero-Knowledge%20Proof)
     + ZKP 활용한 블록체인(ex. Monero) 구현 (진행중)
 
   
