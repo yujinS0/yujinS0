@@ -50,7 +50,7 @@
     <br> 
   - 교내 컴퓨터공학과 동아리 init 3기 활동
     + 알고리즘 공부 및 문제 풀이 후 [블로그](https://cojelly.tistory.com/category/init%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) 업로드
-    + 메타버스, AR, VR 주제로 발표
+    + 메타버스, AR, VR 주제로 발표 [카드뉴스](https://www.instagram.com/p/CbSjL8FrwEn/?igshid=MWZjMTM2ODFkZg==)
     + 백엔드 Spring 공부 : 스타벅스 앱 클론코딩
    
     <br> 
