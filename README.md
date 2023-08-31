@@ -27,24 +27,28 @@
   - 성신여자대학교 2022 소프트웨어 경진대회 고학년부 동상 수상
     + 🏫 **"학교다녀오겠습니다"** - 학교 폭력 예방을 주제로 한 모바일 스토리 퍼즐 게임
       * [way_to_School](https://github.com/yujinS0/way_to_School)
+      * 팀장, 개발자로 참여
 
     <br> 
   - University MakeUs Challenge(UMC) 2기 운영진
     + Server 파트장 
     + 🌏 **"걸어서 지구 한 바퀴"** - 귀여운 동그라미 친구들 함께 지구탐험을 할 수 있는 만보기 앱
       * [Earth1round-Server](https://github.com/yujinS0/Earth1round-Server)
+      * 백엔드 Spring 개발자, AWS 서버 배포
     
     
     <br> 
   - 캡스톤 디자인
     + 🍀 **"가든 지니"** - 시각장애인의 원예 활동과 문화 생활을 돕는 가드닝 앱
       * [Garden-Genie-server](https://github.com/yujinS0/server-Garden-Genie)
+      * 백엔드 Spring 개발, GCP 서버 배포, ChatGPT turbo-3.5 API 사용, yolov5 기반 식물 객체 인식 모델링
 
 
     <br>
   - 2022년 K-디지털 챌린지:NET 챌린지 캠프 시즌9 은상 수상
     + 🚩 **"깜깜맵"** - CCTV를 통해 길의 인적을 확인하여 밤에도 안심하게 다닐 수 있도록 도와주는 지도 앱
       * [GGMap](https://github.com/yujinS0/GG-Map)
+      * Tmap API 활용 프론트 구현, yolov5 통한 CCTV 비디오를 통한 객체 인식 AI 모델링
     
     
     <br> 
@@ -57,6 +61,7 @@
   - 서버 구축 및 실습
     + 🐣 **"메추리알"** - 특정 사이트에 내가 관심있는 글이 올라오면 메일로 알려주는 웹 서비스
       * [Mechurial_project](https://github.com/yujinS0/Mechurial_project)
+      * 백엔드 Node.js 개발, GCP 서버 배포
 
     <br> 
   - Mathematical Programming : Machine Learning
