@@ -50,7 +50,7 @@
     <br> 
   - 교내 컴퓨터공학과 동아리 init 3기 활동
     + 알고리즘 공부 및 문제 풀이 후 [블로그](https://cojelly.tistory.com/category/init%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) 업로드
-    + 메타버스, AR, VR 주제로 발표 [카드뉴스](https://www.instagram.com/p/CbSjL8FrwEn/?igshid=MWZjMTM2ODFkZg==)
+    + **메타버스, AR, VR** 주제로 발표 [카드뉴스](https://www.instagram.com/p/CbSjL8FrwEn/?igshid=MWZjMTM2ODFkZg==)
     + 백엔드 Spring 공부 : 스타벅스 앱 클론코딩
    
     <br> 
@@ -65,10 +65,15 @@
       * [Machine Learning code](https://github.com/yujinS0/Mathematical_Programming)
 
     <br> 
-  - 블록체인 내 암호화 : Zero-Knowledge Proof 활용 방법 세미나
+  - **"블록체인 내 암호화 : Zero-Knowledge Proof"** 활용 방법 세미나
     + 블록체인 내 암호화 기법 중 하나인 Zero-knowledge Proof 논문 리뷰 및 공부
       * [ZKP 정리](https://cojelly.tistory.com/category/Zero-Knowledge%20Proof)
     + ZKP 활용한 블록체인(ex. Monero) 구현 (진행중)
+
+    <br> 
+  - Unity 3D Game Project
+    + **"존 레몬의 공포 체험 시작하기"** (for xreal)
+      * [3DUnityGame_xreal](https://github.com/yujinS0/3DUnityGame_xreal)
 
   
 </div>
