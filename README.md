@@ -14,6 +14,7 @@
   - 🎮 Game development & design 
   - 🔐 Cryptography & Blockchain
   - 🤖 AI development
+  - 🖤 e-sports 💛
   
 <br> 
 <div align=left><h2>🌟 Activities </h2></div>
