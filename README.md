@@ -26,15 +26,26 @@
    
     <br> 
   - XREAL 5기 Dev
-    + Unity 공식 인증 단체인 UCC로 XR 및 메타버스에 대한 심층적인 탐구와 프로젝트 활동을 통해 산업계와 학계에 유의미한 아웃풋을 배출하고자하는 학회
-      * [XREAL](https://www.xreal.info/)
+    + Unity 공식 인증 단체인 UCC로 XR 및 메타버스에 대한 심층적인 탐구와 프로젝트 활동을 통해 산업계와 학계에 유의미한 아웃풋을 배출하고자하는 학회 [XREAL](https://www.xreal.info/)
+    + Unity 3D FPS Game
+      * **"병아리를 잡아라!"** (유니티 기초 교육 트랙)
+      * [DevQuest](https://github.com/yujinS0/DevQuest)
+    + Unity 3D Game Project
+      * **"존 레몬의 공포 체험 시작하기"** (for xreal)
+      * [3DUnityGame_xreal](https://github.com/yujinS0/3DUnityGame_xreal)
+
     
     <br> 
   - 성신여자대학교 2022 소프트웨어 경진대회 고학년부 동상 수상
     + 🏫 **"학교다녀오겠습니다"** - 학교 폭력 예방을 주제로 한 모바일 스토리 퍼즐 게임
       * [way_to_School](https://github.com/yujinS0/way_to_School)
       * 팀장, 개발자로 참여
-
+    <br>
+  - 2022년 K-디지털 챌린지:NET 챌린지 캠프 시즌9 은상 수상
+    + 🚩 **"깜깜맵"** - CCTV 데이터와 AI를 통해 길의 인적을 확인하여 밤에도 안심하게 다닐 수 있도록 도와주는 안심 지도 앱
+      * [GGMap](https://github.com/yujinS0/GG-Map)
+      * Tmap API 활용 프론트 구현, yolov5 통한 CCTV 비디오를 통한 객체 인식 AI 모델링
+      
     <br> 
   - University MakeUs Challenge(UMC) 2기 운영진
     + Server 파트장 
@@ -48,13 +59,6 @@
     + 🍀 **"가든 지니"** - AI를 통해 시각장애인의 원예 활동과 문화 생활을 돕는 가드닝 앱
       * [Garden-Genie-server](https://github.com/yujinS0/server-Garden-Genie)
       * 백엔드 Spring 개발, GCP 서버 배포, ChatGPT turbo-3.5 API 사용, yolov5 기반 식물 객체 인식 모델링
-
-
-    <br>
-  - 2022년 K-디지털 챌린지:NET 챌린지 캠프 시즌9 은상 수상
-    + 🚩 **"깜깜맵"** - CCTV 데이터와 AI를 통해 길의 인적을 확인하여 밤에도 안심하게 다닐 수 있도록 도와주는 안심 지도 앱
-      * [GGMap](https://github.com/yujinS0/GG-Map)
-      * Tmap API 활용 프론트 구현, yolov5 통한 CCTV 비디오를 통한 객체 인식 AI 모델링
     
     
     <br> 
@@ -82,9 +86,7 @@
     + ZKP 활용한 블록체인(ex. Monero) 구현 (진행중)
 
     <br> 
-  - Unity 3D Game Project
-    + **"존 레몬의 공포 체험 시작하기"** (for xreal)
-      * [3DUnityGame_xreal](https://github.com/yujinS0/3DUnityGame_xreal)
+
 
   
 </div>
