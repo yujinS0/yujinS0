@@ -19,21 +19,24 @@
 <br> 
 <div align=left><h2>🌟 Activities </h2></div>
  
-
+  - XREAL 5기 Dev
+    + Unity 공식 인증 단체인 UCC로 XR 및 메타버스에 대한 심층적인 탐구와 프로젝트 활동을 통해 산업계와 학계에 유의미한 아웃풋을 배출하고자하는 학회 [XREAL](https://www.xreal.info/)
+    + Unity 3D FPS Game **"병아리를 잡아라!"**
+      * Unity 기초 교육 트랙
+      * [DevQuest](https://github.com/yujinS0/DevQuest)
+    + **"존 레몬의 공포 체험 시작하기"** (for xreal) 
+      * Unity 3D Game Toy Project
+      * [3DUnityGame_xreal](https://github.com/yujinS0/3DUnityGame_xreal)
+    + **"CubbleWorld"** (진행중)
+      * Cube로 이루어진 방을 만들고 친구와 공유하는 게임 (Unity 심화 트랙)
+      * [CubbleWorld-Quest](https://github.com/yujinS0/CubbleWorld-Quest)
+     
+    <br> 
+    
   - NSLab 학부연구생
     + 📄 KSC2022 **"프로그래머블 스위치의 자원 제약을 극복하기 위해 특수 연산을 활용한 인-네트워크 컴퓨팅 연구 동향"** 논문 게재
     + 프로그래머블 스위치 연구 (P4)
    
-    <br> 
-  - XREAL 5기 Dev
-    + Unity 공식 인증 단체인 UCC로 XR 및 메타버스에 대한 심층적인 탐구와 프로젝트 활동을 통해 산업계와 학계에 유의미한 아웃풋을 배출하고자하는 학회 [XREAL](https://www.xreal.info/)
-    + Unity 3D FPS Game
-      * **"병아리를 잡아라!"** (유니티 기초 교육 트랙)
-      * [DevQuest](https://github.com/yujinS0/DevQuest)
-    + Unity 3D Game Project
-      * **"존 레몬의 공포 체험 시작하기"** (for xreal)
-      * [3DUnityGame_xreal](https://github.com/yujinS0/3DUnityGame_xreal)
-
     
     <br> 
   - 성신여자대학교 2022 소프트웨어 경진대회 고학년부 동상 수상
