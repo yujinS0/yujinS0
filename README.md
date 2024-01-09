@@ -85,7 +85,7 @@
     <br> 
   - **"블록체인 내 암호화 : Zero-Knowledge Proof"** 활용 방법 세미나
     + 블록체인 내 암호화 기법 중 하나인 Zero-knowledge Proof 논문 리뷰 및 공부
-      * [ZKP 정리](https://cojelly.tistory.com/category/Zero-Knowledge%20Proof)
+      * [ZKP 정리](https://cojelly.tistory.com/category/수학과%20일탈/Zero-Knowledge%20Proof)
     + ZKP 활용한 블록체인(ex. Monero) 구현 (진행중)
 
     <br> 
