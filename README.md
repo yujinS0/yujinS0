@@ -32,6 +32,11 @@
       * [CubbleWorld-Quest](https://github.com/yujinS0/CubbleWorld-Quest)
      
     <br> 
+  - SNUH X XREAL 의료 XR 해커톤 우수상 수상
+    + 어린이병원 환자를 위한 주사바늘 불안감을 해소하는 AR 기반 서비스 **"TinglAR"** 
+    + [TinglAR](https://github.com/XREAL-SNUH-3/SNUH-3)
+
+    <br> 
     
   - NSLab 학부연구생
     + 📄 KSC2022 **"프로그래머블 스위치의 자원 제약을 극복하기 위해 특수 연산을 활용한 인-네트워크 컴퓨팅 연구 동향"** 논문 게재
