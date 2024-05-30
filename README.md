@@ -18,6 +18,8 @@
   
 <br> 
 <div align=left><h2>🌟 Activities </h2></div>
+    <br>
+      
   - 컴투스 서버 캠퍼스 2기
     + ASP.NET core를 활용한 API server & socket server 개발
     + MySQL & Redis
