@@ -18,7 +18,7 @@
   
 <br> 
 <div align=left><h2>🌟 Activities </h2></div>
- - 컴투스 서버 캠퍼스 2기
+  - 컴투스 서버 캠퍼스 2기
     + ASP.NET core를 활용한 API server & socket server 개발
     + MySQL & Redis
     + [오목 게임](https://github.com/yujinS0/CubbleWorld-Quest)
