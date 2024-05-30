@@ -18,7 +18,12 @@
   
 <br> 
 <div align=left><h2>🌟 Activities </h2></div>
- 
+ - 컴투스 서버 캠퍼스 2기
+    + ASP.NET core를 활용한 API server & socket server 개발
+    + MySQL & Redis
+    + [오목 게임](https://github.com/yujinS0/CubbleWorld-Quest)
+     
+    <br>
   - XREAL 5기 Dev
     + Unity 공식 인증 단체인 UCC로 XR 및 메타버스에 대한 심층적인 탐구와 프로젝트 활동을 통해 산업계와 학계에 유의미한 아웃풋을 배출하고자하는 학회 [XREAL](https://www.xreal.info/)
     + Unity 3D FPS Game **"병아리를 잡아라!"**
@@ -27,7 +32,7 @@
     + **"존 레몬의 공포 체험 시작하기"** (for xreal) 
       * Unity 3D Game Toy Project
       * [3DUnityGame_xreal](https://github.com/yujinS0/3DUnityGame_xreal)
-    + **"CubbleWorld"** (진행중)
+    + **"CubbleWorld"** 
       * Cube로 이루어진 방을 만들고 친구와 공유하는 게임 (Unity 심화 트랙)
       * [CubbleWorld-Quest](https://github.com/yujinS0/CubbleWorld-Quest)
      
@@ -91,7 +96,7 @@
   - **"블록체인 내 암호화 : Zero-Knowledge Proof"** 활용 방법 세미나
     + 블록체인 내 암호화 기법 중 하나인 Zero-knowledge Proof 논문 리뷰 및 공부
       * [ZKP 정리](https://cojelly.tistory.com/category/수학과%20일탈/Zero-Knowledge%20Proof)
-    + ZKP 활용한 블록체인(ex. Monero) 구현 (진행중)
+    + ZKP 활용한 블록체인(ex. Monero) 구현 공부
 
     <br> 
 
