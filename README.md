@@ -23,7 +23,7 @@
   - 컴투스 서버 캠퍼스 2기
     + ASP.NET core를 활용한 API server & socket server 개발
     + MySQL & Redis
-    + [오목 게임](https://github.com/yujinS0/CubbleWorld-Quest)
+    + [오목 게임](https://github.com/yujinS0/GameServer)
      
     <br>
   - XREAL 5기 Dev
