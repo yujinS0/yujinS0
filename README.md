@@ -18,13 +18,24 @@
   
 <br> 
 <div align=left><h2>🌟 Activities </h2></div>
-    <br>
       
   - 컴투스 서버 캠퍼스 2기
     + ASP.NET core를 활용한 API server & socket server 개발
     + MySQL & Redis
     + [오목 게임](https://github.com/yujinS0/GameServer)
-     
+
+    <br> 
+  - 캡스톤 디자인
+    + 🍀 **"가든 지니"** - AI를 통해 시각장애인의 원예 활동과 문화 생활을 돕는 가드닝 앱
+      * [Garden-Genie-server](https://github.com/yujinS0/server-Garden-Genie)
+      * 백엔드 Spring 개발, GCP 서버 배포, ChatGPT turbo-3.5 API 사용, yolov5 기반 식물 객체 인식 모델링
+
+  
+    <br> 
+  - NSLab 학부연구생
+    + 📄 KSC2022 **"프로그래머블 스위치의 자원 제약을 극복하기 위해 특수 연산을 활용한 인-네트워크 컴퓨팅 연구 동향"** 논문 게재
+    + 프로그래머블 스위치 연구 (P4)
+
     <br>
   - XREAL 5기 Dev
     + Unity 공식 인증 단체인 UCC로 XR 및 메타버스에 대한 심층적인 탐구와 프로젝트 활동을 통해 산업계와 학계에 유의미한 아웃풋을 배출하고자하는 학회 [XREAL](https://www.xreal.info/)
@@ -42,12 +53,6 @@
   - SNUH X XREAL 의료 XR 해커톤 우수상 수상
     + 어린이병원 환자를 위한 주사바늘 불안감을 해소하는 AR 기반 서비스 **"TinglAR"** 
     + [TinglAR](https://github.com/XREAL-SNUH-3/SNUH-3)
-
-    <br> 
-    
-  - NSLab 학부연구생
-    + 📄 KSC2022 **"프로그래머블 스위치의 자원 제약을 극복하기 위해 특수 연산을 활용한 인-네트워크 컴퓨팅 연구 동향"** 논문 게재
-    + 프로그래머블 스위치 연구 (P4)
    
     
     <br> 
@@ -67,13 +72,6 @@
     + 🌏 **"걸어서 지구 한 바퀴"** - 귀여운 동그라미 친구들 함께 지구탐험을 할 수 있는 만보기 앱
       * [Earth1round-Server](https://github.com/yujinS0/Earth1round-Server)
       * 백엔드 Spring 개발자, AWS 서버 배포
-    
-    
-    <br> 
-  - 캡스톤 디자인
-    + 🍀 **"가든 지니"** - AI를 통해 시각장애인의 원예 활동과 문화 생활을 돕는 가드닝 앱
-      * [Garden-Genie-server](https://github.com/yujinS0/server-Garden-Genie)
-      * 백엔드 Spring 개발, GCP 서버 배포, ChatGPT turbo-3.5 API 사용, yolov5 기반 식물 객체 인식 모델링
     
     
     <br> 
