@@ -10,10 +10,8 @@
       <br><br>
 
   I'm interested in ... 💭
-  - 🖥 Backend development 
+  - 🖥 Game Backend development 
   - 🎮 Game development & design 
-  - 🔐 Cryptography & Blockchain
-  - 🤖 AI development
   - 🖤 e-sports 💛
   
 <br> 
@@ -27,7 +25,7 @@
     <br> 
   - 캡스톤 디자인
     + 🍀 **"가든 지니"** - AI를 통해 시각장애인의 원예 활동과 문화 생활을 돕는 가드닝 앱
-      * [Garden-Genie-server](https://github.com/yujinS0/server-Garden-Genie)
+      * [Garden-Genie-server](https://github.com/Garden-Genie/new-server-Garden-Genie)
       * 백엔드 Spring 개발, GCP 서버 배포, ChatGPT turbo-3.5 API 사용, yolov5 기반 식물 객체 인식 모델링
 
   
