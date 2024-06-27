@@ -46,6 +46,9 @@
     + **"CubbleWorld"** 
       * Cube로 이루어진 방을 만들고 친구와 공유하는 게임 (Unity 심화 트랙)
       * [CubbleWorld-Quest](https://github.com/yujinS0/CubbleWorld-Quest)
+    + **"Crush Bear: Don't decorate me!"**
+      * VR 리듬게임
+      * 데브, PlayX4 부스 참여
      
     <br> 
   - SNUH X XREAL 의료 XR 해커톤 우수상 수상
